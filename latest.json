@@ -1,3 +1,7 @@
 {
   "version": "1.0.1",
+  "windows": {
+    "url": "https://github.com/JustinRLamb/popdictupdate/releases/download/1.0.1/popdict-1.0.1-win.zip",
+    "sha256": "529CCA9BC7AE068B6EA16FF2760E24615F4072244228C65D473D37B266B46DB2"
+  }
 }
